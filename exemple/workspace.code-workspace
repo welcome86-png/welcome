@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Users\\VENTE ORDI\\OneDrive\\Bureau\\exemple"
+		}
+	],
+	"settings": {
+		"open-php-html-js-in-browser.customUrlToOpen": "http://localhost/${relativeDirnameDocumentRoot}/${fileBasename}",
+		"open-php-html-js-in-browser.selectedBrowser": "Chrome",
+		"open-php-html-js-in-browser.documentRootFolder": "C:\\xampp\\htdocs",
+		"open-php-html-js-in-browser.customHost": "http://localhost/${relativeDirnameDocumentRoot}/${fileBasename}"
+	}
+}
